@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Modern applications.**
 
-- 👯 I’m looking to collaborate on **other developers.**
+- 🚀 I’m looking to collaborate on **other developers.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elbekAzimjonov/Portfolio](https://github.com/elbekAzimjonov/Portfolio)
 
