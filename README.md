@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elbekazimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="elbekazimjonov" /> </p>
 
-- 🔭 I’m currently working on **Modern applications.**
+- 🔭 currently working on **Modern applications.**
 
-- 🚀 I’m looking to collaborate on **other developers.**
+- 🚀 looking to collaborate on **other developers.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/elbekAzimjonov/Portfolio](https://github.com/elbekAzimjonov/Portfolio)
+- 💻 projects are available at [https://github.com/elbekAzimjonov/Portfolio](https://github.com/elbekAzimjonov/Portfolio)
 
 - 💬 Ask me about **anything in the Android development ecosystem.**
 
